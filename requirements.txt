@@ -7,3 +7,5 @@ dill
 seaborn
 jupyter
 ipykernel
+bs4
+requests
